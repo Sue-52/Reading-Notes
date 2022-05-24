@@ -11,3 +11,12 @@ x64/
 *.vcxproj.user
 *.claudiaideconfig
 *.pdf
+
+#linux
+*.iso
+*.rar
+
+#python
+pcc-master/
+CorePython-master/
+Thinking/
