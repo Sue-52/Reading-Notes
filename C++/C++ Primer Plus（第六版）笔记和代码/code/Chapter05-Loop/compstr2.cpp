@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main()
+int main_compstr2()
 {
 	using namespace std;
 
