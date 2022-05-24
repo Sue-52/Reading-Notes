@@ -1,0 +1,13 @@
+.vuepress/.cache
+.vuepress/.temp
+node_modules
+exe
+# C++ 
+x64/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.claudiaideconfig
+*.pdf
