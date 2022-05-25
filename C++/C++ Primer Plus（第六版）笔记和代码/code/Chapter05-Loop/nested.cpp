@@ -3,7 +3,7 @@
 const int Cities = 5;
 const int Years = 4;
 
-int main()
+int main_nested()
 {
 	using namespace std;
 
