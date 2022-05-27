@@ -3,7 +3,7 @@
 #include <cstdlib>  // Ö§³Ö exit()
 
 const int SIZE = 60;
-int main()
+int main_sumafile()
 {
 	using namespace std;
 
