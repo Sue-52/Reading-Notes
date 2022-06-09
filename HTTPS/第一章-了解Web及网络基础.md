@@ -105,7 +105,7 @@ IP 地址制定了节点被分配到的地址，MAC 地址是指网卡所属的�
 
 - **确保数据送达：**
 
-  三次握手（three-way handshaking）策略。在过程中使用了 TCP的标志（flag）— SYN（synchronize）和 ACK（acknowledgement）。
+  三次握手（three-way handshaking）策略。在过程中使用了 TCP的标志（flag）、 SYN（synchronize）和 ACK（acknowledgement）。
 
   - 发送端首先发送一个带 SYN 标志的数据包给对方。
   - 接收端收到后，回传一个带有 SYN/ACK 标志的数据包以示传达确认信息。
